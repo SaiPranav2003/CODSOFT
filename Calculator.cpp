@@ -1,3 +1,6 @@
+
+//Simple Calculator
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -15,7 +18,7 @@ int main() {
     char continue_Calculations;
 
     do {
-        cout << "                   === Welcome to the Advanced Calculator ===                  " << endl;
+        cout << "                   === Welcome to the Simple Calculator ===                  " << endl;
 
         
         cout << "Enter the first number: ";
