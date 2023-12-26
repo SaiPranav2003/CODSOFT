@@ -14,3 +14,9 @@ They are designed for simplicity and user-friendliness, making them accessible t
 3) Tic-Tac-Toe Game:
 The timeless game of Tic-Tac-Toe is implemented in a digital form.
 It offers a fun and strategic gaming experience, perfect for challenging friends or sharpening your strategic thinking.
+
+4) LIBRARY MANAGEMENT SYSTEM:
+The provided C++ code represents a console-based Library Management System. 
+Usage:
+Users can add books and borrowers, check out and return books, display available books, and exit the program through the menu options.
+---> For a production-level library management system, considerations for data persistence (using a database), enhanced error handling, security features, and a more sophisticated user interface may be necessary. The provided code serves as a starting point and can be expanded based on specific requirements and use cases.
